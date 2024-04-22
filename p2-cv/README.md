@@ -8,3 +8,5 @@ By Mason Melville <mmelv@umich.edu>
 Build an image resizing program using a seam-carving algorithm.
 
 The learning goals of this project include Testing, Debugging, Pointers, Arrays, Strings, Streams, IO, and Abstract Data Types in C. The algorithm works by finding and removing “seams” in the image that pass through the least important pixels.
+
+Written by me: matrix.cpp, image.cpp, processing.cpp, resize.cpp, matrix_tests.cpp, image_tests.cpp
