@@ -9,3 +9,4 @@ Created a Euchre game that supports both AI and human players
 
 The learning goals of this project include Abstract Data Types in C++, Derived Classes, Inheritance, and Polymorphism. Gained practice with C++-style Object Oriented Programming (OOP) with classes and virtual functions.
 
+Written by me: euchre.cpp, Card.cpp, Pack.cpp, Player.cpp, Card_tests.cpp, Player_tests.cpp
